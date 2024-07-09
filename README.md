@@ -1,2 +1,2 @@
 # SamuelYLay.github.io
-website @ https://samuelylay.github.io/
+https://samuelylay.github.io/
