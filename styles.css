@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Latin+Modern+Roman:wght@400;700&display=swap');
+
+body {
+    font-family: 'Latin Modern Roman', serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.container {
+    text-align: center;
+    width: 60%;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: grey;
+}
+
+nav a:hover {
+    color: black;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    color: #007BFF;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+footer a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: grey;
+}
+
+footer a:hover {
+    color: black;
+}
